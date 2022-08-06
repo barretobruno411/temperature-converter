@@ -1,3 +1,23 @@
+# Temperature converter
+
+This project was a refactored from the project on chapter 12 of the book "React Aprenda Preticando" from Novatec by Maurício "Maujor" Samy Silva
+[React Aprenda Praticando](https://novatec.com.br/livros/react-aprenda-praticando/)
+![react-book](https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9786586057393.jpg)
+
+The book gives a good basis of React, specialy in React class components, tests with jest in react components.
+
+# Reasons of the refactored version
+
+The project found in material-auxiliar, provided by the site does not work in NODE and NPM new versions, im using Node 16.14.0 and
+NPM 8.16.0
+
+Some methods are jus using pure Javascript options to manipulate DOM events, but for educational pruposes, i just implemented some
+React way to made it, with hooks.
+
+if you want, just use NVM to quiclly change and use Node versions:
+[NVM Github repository](https://github.com/nvm-sh/nvm)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
